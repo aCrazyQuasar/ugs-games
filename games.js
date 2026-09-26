@@ -1,9 +1,4 @@
-const ugsGames = `Bank Robbery.html
-Eaglercraft-Beta-1.7.3-Offline.html
-Eaglercraft1.12.html
-PVZM.html
-Reflex_v0.0.1_Offline_WASM.html
-Smash Hit Ripoff.html
+const ugsGames = `
 Vs. Among Us Skeld Symphony.html
 Vs. Baddies Nightmare.html
 Vs. Ben Drowned.html
