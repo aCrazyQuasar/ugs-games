@@ -1,4 +1,4 @@
-export const ugsGames = `Bank Robbery.html
+const ugsGames = `Bank Robbery.html
 Eaglercraft-Beta-1.7.3-Offline.html
 Eaglercraft1.12.html
 PVZM.html
