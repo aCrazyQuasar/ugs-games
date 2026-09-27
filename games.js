@@ -1,35 +1,4 @@
 const ugsGames = `
-Vs. Among Us Skeld Symphony.html
-Vs. Baddies Nightmare.html
-Vs. Ben Drowned.html
-Vs. Blourple Guy (Ourple Guy B-Sides).html
-Vs. Cartoon Frenzy.html
-Vs. Classified.html
-Vs. Confronting Yourself FF MIx.html
-Vs. Eteled System Overload.html
-Vs. Funkin_ For Hire Dorkly Sonic.html
-Vs. Imposter B3 Remixed.html
-Vs. Imposter Getaway.html
-Vs. Impostor Expansion.html
-Vs. Impostor Tainted Fate.html
-Vs. Impostor White Parasite.html
-Vs. Insanity Psychosis Remake.html
-Vs. Lime Impostor (Impostor v5 April Fool’s Week).html
-Vs. Minus Eteled.html
-Vs. Mungus Madness.html
-Vs. Parasite Origins – Blackness.html
-Vs. Pastel Impostor.html
-Vs. Secret Histories.html
-Vs. Sunday Night Suicide v2.html
-Vs. Unknown Suffering Reanimated.html
-Vs. Unknown Suffering – Awe and Saster Remix.html
-Vs. Vloo Guy (Ourple Guy D-Sides).html
-capuchinsf.html
-cheeserolling.html
-cl-3 (1).html
-cl-3.html
-cl-b.html
-cl1.html
 cl10minutestildawn.html
 cl12minibattles.html
 cl1v1lol.html
